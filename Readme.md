@@ -31,19 +31,20 @@ I'm David Kik a Full Stack Web Developer and Content Creator. I Spend most of my
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: davidelkik@gmail.com
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KIKDAVID.KIKDAVID)
+
 #### 1.3.4. Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
 <!--END_SECTION:waka-->
 
-#### 1.3.5. Github Stats
+
+#### Github Stats
+
+![David's github stats](https://github-readme-stats.vercel.app/api?username=KIKDAVID&count_private=true&theme=cobalt&hide=contribs,prs)
+
 
 
 </details>
