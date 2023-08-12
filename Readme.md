@@ -50,7 +50,3 @@ I'm David Kik a Full Stack Web Developer and Content Creator. I Spend most of my
 </details>
 
 
-[reactplaylist]: https://www.youtube.com/watch?"inputhere"
-[vscodetutorial]: https://www.youtube.com/watch?""input here" 
-[htmltutorial]: https://www.youtube.com/watch?"input here "
-[javascripttutorial]: https://www.youtube.com/watch?"input here"
