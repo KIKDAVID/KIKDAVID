@@ -28,7 +28,7 @@ I'm David Kik a Full Stack Web Developer and Content Creator. I Spend most of my
 [ ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)[ ![Linux Badge](https://img.shields.io/badge/-Linux-0047AB?style=for-the-badge&labelColor=black&logo=Linux&logoColor=4D4DFF)](#)[ ![Python Badge](https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&labelColor=black&logo=python&logoColor=FFFF00)](#)[ ![GO Badge](https://img.shields.io/badge/-GO-FFFFFF?style=for-the-badge&labelColor=black&logo=go&logoColor=FFFFFF)](#)[ ![PostgreSql Badge](https://img.shields.io/badge/-PostgreSql-000080?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=FFFFFF)](#)[ ![GIT Badge](https://img.shields.io/badge/-git-000000?style=for-the-badge&labelColor=black&logo=git&logoColor=FFFFFF)](#)
 
 #### 1.3.1. Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/KIKDAVID/KIKDAVID/.pdf)
 - :email: davidelkik@gmail.com
 
 #### Profile Visits 
@@ -50,7 +50,7 @@ I'm David Kik a Full Stack Web Developer and Content Creator. I Spend most of my
 </details>
 
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+[reactplaylist]: https://www.youtube.com/watch?"inputhere"
+[vscodetutorial]: https://www.youtube.com/watch?""input here" 
+[htmltutorial]: https://www.youtube.com/watch?"input here "
+[javascripttutorial]: https://www.youtube.com/watch?"input here"
