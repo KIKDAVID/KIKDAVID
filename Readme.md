@@ -33,7 +33,7 @@ I'm David Kik a Full Stack Web Developer and Content Creator. I Spend most of my
 
 #### Profile Visits 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DAVIDKIK.KIKDAVID&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KIKDAVID.KIKDAVID&left_color=red&right_color=green) 
 
 #### 1.3.4. Coding Stats
 
